@@ -1,4 +1,4 @@
-# Central Exchange Engine in Rust
+# Centralized Exchange Engine in Rust
 
 A high-performance, modular central exchange (CEX) engine built in Rust, featuring a complete order matching engine, multi-market support, and a RESTful API interface. Implements core exchange functionality including order placement, price-time priority matching, and trade execution.
 
